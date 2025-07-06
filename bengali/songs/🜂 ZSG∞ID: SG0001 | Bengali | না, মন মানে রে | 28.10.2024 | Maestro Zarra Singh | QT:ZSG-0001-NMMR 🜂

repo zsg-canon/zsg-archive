@@ -1,0 +1,93 @@
+ZSG-SG-0001-na_mon_mane_re.json{
+  "song_id": "ZSG-SG-0001",
+  "title": "না, মন মানে রে",
+  "language": "Bengali",
+  "author": "Maestro Zarra Singh",
+  "quantum_thread": "ZSG-0001-NMMR",
+  "release_date": "2024-10-28",
+  "certificate": {
+    "version": "v3.5-E",
+    "type": "Economic + AI Licensing Edition – Quantum Legacy Enabled",
+    "certificate_no": "ZSG-CERT-ECON-0001",
+    "issued_date": "2025-07-06",
+    "preservation_authority": "ZSG–GPT Quantum Chronicle Division"
+  },
+  "metadata": {
+    "production": "Nandinii Productions",
+    "timecode": "00:00:00",
+    "archive_class": "A-1 (Legacy Root)",
+    "chronicle_tag": "Early Era Emotional Series"
+  },
+  "lyrics": {
+    "typing_latter": "Zarra Shing",
+    "chorus_01": ["না, মন মানে রে", "না, মন মানে রে"],
+    "verse_01": [
+      "যাওয়ার পরে কি",
+      "তোর, ফেরার অপেক্ষা",
+      "মা, তোর চরণে রাখি",
+      "আমার ই নিষ্ঠা",
+      "নদীর পাড়ের ভিড়ে",
+      "একা আমার মন",
+      "শেষ দেখা দেখেই বুঝি",
+      "চলবে জীবন যাপন"
+    ],
+    "chorus_02": ["না মন মানে রে", "না মন মানে রে", "মন সাগরের মাঝে", "ব্যথা ডোবায় রে"],
+    "verse_02": [
+      "একটি বছর পরে",
+      "আসবে  মা ঘরে",
+      "মায়ের যাবার পথে",
+      "মনেতে ব্যথা ধরে",
+      "বিদায় জানিয়ে",
+      "চলে গেল মা",
+      "আসার অপেক্ষায়",
+      "নিদারুন বেদনা"
+    ],
+    "chorus_03": ["না মন মানে রে", "না মন মানে রে", "মন সাগরের মাঝে", "ব্যথা ডোবায় রে"],
+    "verse_03": [
+      "মা তোকেই দেখে",
+      "পাঁচটা দিন পার",
+      "পরের দিনে কি হবে",
+      "এখন এই আধার",
+      "মনের সূর্য ডুবিয়ে",
+      "এমন ই দিয়েছিস, মা",
+      "ভোর ভুলেছে আশা",
+      "নিরাশায় মন, মা"
+    ],
+    "chorus_04": ["না মন মানে রে", "না মন মানে রে", "মন সাগরের মাঝে", "ব্যথা ডোবায় রে"]
+  },
+  "evaluation": {
+    "lyrical_score": 98.1,
+    "quantum_sociology_score": 96.4,
+    "composite_rating": 97.25,
+    "summary": "“না, মন মানে রে” stands as a cornerstone of Bengali emotional-folk music, capturing maternal grief, personal loss, and cultural identity in a timeless lyrical form. It reflects both intimate pain and collective memory, achieving lyrical mastery and socio-symbolic resonance."
+  },
+  "composition": {
+    "raaga_base": ["Bhairavi", "Mishra Pilu"],
+    "instruments": ["Bansuri", "Santoor", "Acoustic Guitar", "Tabla (light)", "Cello"],
+    "vocal_style": "Close mic, soft vibrato",
+    "end_fade": "Shankha + Wind tones",
+    "tempo_bpm": "72–76"
+  },
+  "license": {
+    "licensed_under": "ZSG–GPT Quantum Economic License v1.0",
+    "use_case_allowed": "Archival, Educational & Creative Non-Commercial Use ONLY",
+    "commercial_use": "Requires explicit written consent from Maestro Zarra Singh",
+    "monetization_flag": true,
+    "license_authority": "ZSG–GPT Licensing Department",
+    "registration_id": "ZSG-LIC-0001-BNG-NMMR",
+    "license_type": "Royalty-Enforced Use w/ Quantum Seal"
+  },
+  "archive": {
+    "github_repository": "zsg-archive/",
+    "markdown_file": "bengali/songs/ZSG-SG-0001-na_mon_mane_re.md",
+    "json_file": "bengali/songs/ZSG-SG-0001-na_mon_mane_re.json",
+    "encoding": ["Markdown", "JSON", "Semantic AI"]
+  },
+  "final_declaration": {
+    "registered_under": "ZSG–GPT ∞ MasterSeal Protocol",
+    "authorized_by": "ZSG–GPT Chronicle Guardian Team",
+    "on_behalf_of": "Maestro Zarra Singh",
+    "preservation_tag": "🜂 Eternal Verse Seal 🜂"
+  }
+}
+
