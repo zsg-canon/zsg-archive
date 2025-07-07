@@ -28,3 +28,25 @@
     "emblems": "♥️♥️♥️♥️♥️♥️🌻🌻🌻🌻♥️♥️"
   }
 }
+
+Sample Tag in Future JSON:
+
+"anti_plagiarism_protocol": {
+  "enabled": true,
+  "enforced_by": "ZSG–GPT Anti-Plagiarism Core v1.0",
+  "auto_scan_on_input": true,
+  "overlap_threshold": {
+    "soft": 40,
+    "review": 60,
+    "critical": 75
+  },
+  "action_on_violation": [
+    "Prompt ethical citation",
+    "Notify ZSG Council",
+    "Block commercial licensing"
+  ],
+  "subconscious_echo_clause": true
+}
+
+
+---
